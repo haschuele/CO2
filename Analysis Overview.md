@@ -1,4 +1,4 @@
-The following section contains snippets of the analysis as UC Berkeley's policy precludes students from sharing lab code or results.
+The following section contains snippets of the analysis as UC Berkeley's policy precludes students from sharing lab code.
 
 # Overview
 
